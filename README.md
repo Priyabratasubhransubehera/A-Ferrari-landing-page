@@ -47,11 +47,8 @@
 ## 🎬 Features
 
 ### 🖥️ Cinematic Hero
-- Full-screen **Ferrari video background** with parallax scroll
-- Pure Ferrari-first first impression — zero clutter for the first 5 seconds
-- 12 **floating red particles** orbiting the car
-- Pulsing spotlight and **red glow breathing effect**
-- Scroll-triggered reveal of headline, stats, and CTAs
+
+![Live Smart Face Detection System Demo](https://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Ferrari%20Landpage.png)
 
 ### 🔴 3D Hero Scene (`Hero3D`)
 - **Three.js** car built from primitive shapes with Ferrari red metallic finish
