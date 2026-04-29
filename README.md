@@ -47,8 +47,11 @@
 ## 🎬 Features
 
 ### 🖥️ Cinematic Hero
-
-![Live Smart Face Detection System Demo](https://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Ferrari%20Landpage.png)
+- Full-screen Ferrari video background with parallax scroll
+- Pure Ferrari-first first impression — zero clutter for the first 5 seconds
+- 12 floating red particles orbiting the car
+- Pulsing spotlight and red glow breathing effect
+- Scroll-triggered reveal of headline, stats, and CTAs
 
 ### 🔴 3D Hero Scene (`Hero3D`)
 - **Three.js** car built from primitive shapes with Ferrari red metallic finish
@@ -96,32 +99,36 @@
 <br/>
 
 ### 🎬 Hero — Cinematic Video Entry
-![Hero Section](https://placehold.co/1280x720/0A0A0A/FF2800?text=🏎️+Hero+—+Cinematic+Video+Entry)
+![Hero Section](https://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Ferrari%20Landpage%20(2).png)
 
 <br/>
 
 ### 🔴 3D Car Scene
-![3D Car Scene](https://placehold.co/1280x720/0A0A0A/FF2800?text=🔴+3D+Rotating+Ferrari+Car)
+![3D Car Scene](https://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/3D%20Car%20Scene.png)
 
 <br/>
 
 ### 🚗 Featured Models Slider
-![Models Slider](https://placehold.co/1280x720/0A0A0A/FF2800?text=🚗+Featured+Models+Slider)
+![Models Slider](https://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Featured%20Models%20Slider%201.png)
+
+![Models Slider](https://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Featured%20Models%20Slider%202.png)
+
+![Models Slider](https://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Featured%20Models%20Slider%203.png)
 
 <br/>
 
 ### 📊 Performance Stats
-![Performance Stats](https://placehold.co/1280x720/0A0A0A/FFD700?text=📊+Performance+Stats+3D)
+![Performance Stats](https://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Performance%20Stats.png)
 
 <br/>
 
 ### 📋 Book a Test Drive Form
-![Test Drive Form](https://placehold.co/1280x720/0A0A0A/FF2800?text=📋+Book+Test+Drive+Form)
+![Test Drive Form](http://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Book%20Your%20Test%20Drive.png)
 
 <br/>
 
 ### ⚙️ Tech Features 3D Cards
-![Tech Cards](https://placehold.co/1280x720/0A0A0A/00D9FF?text=⚙️+Tech+Features+Cards)
+![Tech Cards]()
 
 ---
 
