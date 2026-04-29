@@ -30,9 +30,7 @@
 
 <div align="center">
 
-### 👉 [**View Live Site →**](https://your-demo-url.vercel.app)
-
-> 🔁 Replace `your-demo-url.vercel.app` with your actual deployment URL (Vercel / Netlify / GitHub Pages)
+### 👉 [**View Live Site →**](https://69f199bd0e28c6d572661090--spontaneous-crisp-75d5b2.netlify.app/)
 
 </div>
 
@@ -93,9 +91,6 @@
 ---
 
 ## 📸 Screenshots
-
-> 💡 Replace the image links below with your actual screenshots. You can drag & drop images directly into GitHub when editing the README.
-
 <br/>
 
 ### 🎬 Hero — Cinematic Video Entry
@@ -123,12 +118,12 @@
 <br/>
 
 ### 📋 Book a Test Drive Form
-![Test Drive Form](http://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Book%20Your%20Test%20Drive.png)
+![Test Drive Form](https://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Book%20Your%20Test%20Drive.png)
 
 <br/>
 
 ### ⚙️ Tech Features 3D Cards
-![Tech Cards]()
+![Tech Cards](https://github.com/Priyabratasubhransubehera/A-Ferrari-landing-page/blob/main/Tech%20Features%203D%20Cards.png)
 
 ---
 
@@ -245,8 +240,13 @@ Loading Screen  →  Hero (Video + 3D Car)  →  Featured Models Slider
 
 ## 📄 License
 
-This project is built on a [Figma community design](https://www.figma.com/design/LGuD1ca30UMvT02MPvyy6y/Cinematic-Ferrari-Web-Experience). Ferrari is a trademark of Ferrari N.V. — this project is a fan-made portfolio piece and is not affiliated with or endorsed by Ferrari.
+MIT License © 2024 [Priyabrata Subhransu Behera]
 
+- This project is licensed under the MIT License.
+- You are free to use, copy, modify, and distribute this project
+- for personal or commercial use — with attribution.
+- See the [LICENSE](./LICENSE) file for full details.
+  
 ---
 
 ## 📬 Contact
@@ -257,24 +257,15 @@ Have feedback, a collaboration idea, or just want to say hello? Feel free to rea
 
 | Platform | Link |
 |---|---|
-| 📧 **Email** | [your.email@gmail.com](mailto:your.email@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
-| 🐙 **GitHub** | [github.com/your-username](https://github.com/your-username) |
-| 🌐 **Portfolio** | [your-portfolio.com](https://your-portfolio.com) |
-| 🐦 **Twitter / X** | [@your-handle](https://twitter.com/your-handle) |
+| 📧 **Email** | [psubhransubehera@gmail.com](mailto:your.email@gmail.com) |
+| 💼 **LinkedIn** | [https://www.linkedin.com/in/priyabrata-subhransu-behera-a3992a369/](https://linkedin.com/in/your-profile) |
+| 🐙 **GitHub** | [https://github.com/Priyabratasubhransubehera](https://github.com/your-username) |
+| 🌐 **Portfolio** | https://69c81666e922d98aa012bb8b--magnificent-cheesecake-571e9e.netlify.app/ |
 
 </div>
-
-> 💡 Replace the placeholder links above with your real contact details before publishing.
 
 ---
 
 <div align="center">
 
 **Built with ❤️ and a passion for speed**
-
-⭐ If you like this project, give it a star — it means a lot!
-
-[![Star on GitHub](https://img.shields.io/github/stars/your-username/cinematic-ferrari-experience?style=social)](https://github.com/your-username/cinematic-ferrari-experience)
-
-</div>
